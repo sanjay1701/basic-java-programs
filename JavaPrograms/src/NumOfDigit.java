@@ -1,7 +1,10 @@
 import java.util.Scanner;
 
 public class NumOfDigit {
-
+	/**
+	 * Function to find total digits in a number
+	 * @param num
+	 */
 	public static void findDigitsInNum(int num) {
 		int count=0;
 		if(num<0) {
