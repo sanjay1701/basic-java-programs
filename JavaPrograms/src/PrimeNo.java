@@ -1,5 +1,9 @@
 
 public class PrimeNo {
+	/**
+	 * Function to find prime number
+	 * @param n - user input
+	 */
 	public static void isPrime(int n) {
 		int flag=0;
 		if(n==0||n==1) {
